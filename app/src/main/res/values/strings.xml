@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ShoppingApp2</string>
+    <string name="app_name">Shopping App</string>
     <string name="hint_email">Email</string>
     <string name="hint_password">Password</string>
     <string name="hint_name">Full name</string>
@@ -29,5 +29,10 @@
 
     <string name="shoppingapp2">Sample</string>
     <string name="map_key" translatable="false">Enter your google API key here</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="get_map">Get Map</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_main">MainActivity</string>
 
 </resources>
